@@ -1,0 +1,2 @@
+# shitbot
+badbot
